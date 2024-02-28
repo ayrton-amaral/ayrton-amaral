@@ -15,4 +15,4 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img align="center" alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> <img align="center" alt="nodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img align="center" alt="Linux" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" /> <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img align="center" alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
 
 ## GitHub Stats
-<img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrton-amaral&theme=one_dark_pro"/>
+<img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrton-amaral&theme=tokyonight"/>
